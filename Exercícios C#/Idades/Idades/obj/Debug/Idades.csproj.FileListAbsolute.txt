@@ -1,0 +1,7 @@
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Idades\Idades\bin\Debug\Idades.exe.config
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Idades\Idades\bin\Debug\Idades.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Idades\Idades\bin\Debug\Idades.pdb
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Idades\Idades\obj\Debug\Idades.csproj.AssemblyReference.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Idades\Idades\obj\Debug\Idades.csproj.CoreCompileInputs.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Idades\Idades\obj\Debug\Idades.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Idades\Idades\obj\Debug\Idades.pdb

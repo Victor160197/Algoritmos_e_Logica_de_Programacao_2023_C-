@@ -1,0 +1,7 @@
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Programa\Programa\bin\Debug\Programa.exe.config
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Programa\Programa\bin\Debug\Programa.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Programa\Programa\bin\Debug\Programa.pdb
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Programa\Programa\obj\Debug\Programa.csproj.AssemblyReference.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Programa\Programa\obj\Debug\Programa.csproj.CoreCompileInputs.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Programa\Programa\obj\Debug\Programa.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Programa\Programa\obj\Debug\Programa.pdb

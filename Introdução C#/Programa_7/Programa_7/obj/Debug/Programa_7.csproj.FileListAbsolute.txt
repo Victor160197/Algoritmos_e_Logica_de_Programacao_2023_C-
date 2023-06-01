@@ -1,0 +1,6 @@
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Introdução C#\Programa_7\Programa_7\bin\Debug\Programa_7.exe.config
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Introdução C#\Programa_7\Programa_7\bin\Debug\Programa_7.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Introdução C#\Programa_7\Programa_7\bin\Debug\Programa_7.pdb
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Introdução C#\Programa_7\Programa_7\obj\Debug\Programa_7.csproj.CoreCompileInputs.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Introdução C#\Programa_7\Programa_7\obj\Debug\Programa_7.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Introdução C#\Programa_7\Programa_7\obj\Debug\Programa_7.pdb

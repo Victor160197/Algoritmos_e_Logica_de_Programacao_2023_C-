@@ -1,0 +1,7 @@
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_vetor\Soma_vetor\bin\Debug\Soma_vetor.exe.config
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_vetor\Soma_vetor\bin\Debug\Soma_vetor.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_vetor\Soma_vetor\bin\Debug\Soma_vetor.pdb
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_vetor\Soma_vetor\obj\Debug\Soma_vetor.csproj.AssemblyReference.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_vetor\Soma_vetor\obj\Debug\Soma_vetor.csproj.CoreCompileInputs.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_vetor\Soma_vetor\obj\Debug\Soma_vetor.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_vetor\Soma_vetor\obj\Debug\Soma_vetor.pdb

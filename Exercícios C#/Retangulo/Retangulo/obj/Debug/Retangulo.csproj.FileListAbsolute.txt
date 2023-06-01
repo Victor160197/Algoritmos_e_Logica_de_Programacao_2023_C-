@@ -1,0 +1,7 @@
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Retangulo\Retangulo\bin\Debug\Retangulo.exe.config
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Retangulo\Retangulo\bin\Debug\Retangulo.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Retangulo\Retangulo\bin\Debug\Retangulo.pdb
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.AssemblyReference.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.CoreCompileInputs.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Retangulo\Retangulo\obj\Debug\Retangulo.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Retangulo\Retangulo\obj\Debug\Retangulo.pdb

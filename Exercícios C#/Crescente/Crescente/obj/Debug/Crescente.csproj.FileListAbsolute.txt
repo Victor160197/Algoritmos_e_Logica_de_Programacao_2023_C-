@@ -1,0 +1,7 @@
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Crescente\Crescente\bin\Debug\Crescente.exe.config
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Crescente\Crescente\bin\Debug\Crescente.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Crescente\Crescente\bin\Debug\Crescente.pdb
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Crescente\Crescente\obj\Debug\Crescente.csproj.AssemblyReference.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Crescente\Crescente\obj\Debug\Crescente.csproj.CoreCompileInputs.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Crescente\Crescente\obj\Debug\Crescente.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Crescente\Crescente\obj\Debug\Crescente.pdb

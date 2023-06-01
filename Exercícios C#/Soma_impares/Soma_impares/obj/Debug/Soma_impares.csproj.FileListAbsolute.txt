@@ -1,0 +1,7 @@
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_impares\Soma_impares\bin\Debug\Soma_impares.exe.config
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_impares\Soma_impares\bin\Debug\Soma_impares.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_impares\Soma_impares\bin\Debug\Soma_impares.pdb
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_impares\Soma_impares\obj\Debug\Soma_impares.csproj.AssemblyReference.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_impares\Soma_impares\obj\Debug\Soma_impares.csproj.CoreCompileInputs.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_impares\Soma_impares\obj\Debug\Soma_impares.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Soma_impares\Soma_impares\obj\Debug\Soma_impares.pdb

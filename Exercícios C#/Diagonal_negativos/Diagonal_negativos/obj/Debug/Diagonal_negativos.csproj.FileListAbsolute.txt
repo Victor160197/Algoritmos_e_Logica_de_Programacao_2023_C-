@@ -1,0 +1,7 @@
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Diagonal_negativos\Diagonal_negativos\bin\Debug\Diagonal_negativos.exe.config
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Diagonal_negativos\Diagonal_negativos\bin\Debug\Diagonal_negativos.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Diagonal_negativos\Diagonal_negativos\bin\Debug\Diagonal_negativos.pdb
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Diagonal_negativos\Diagonal_negativos\obj\Debug\Diagonal_negativos.csproj.AssemblyReference.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Diagonal_negativos\Diagonal_negativos\obj\Debug\Diagonal_negativos.csproj.CoreCompileInputs.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Diagonal_negativos\Diagonal_negativos\obj\Debug\Diagonal_negativos.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\Exercícios C#\Diagonal_negativos\Diagonal_negativos\obj\Debug\Diagonal_negativos.pdb

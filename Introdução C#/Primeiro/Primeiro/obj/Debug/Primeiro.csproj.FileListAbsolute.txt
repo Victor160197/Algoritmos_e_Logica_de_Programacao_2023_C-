@@ -1,0 +1,7 @@
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Primeiro\Primeiro\bin\Debug\Primeiro.exe.config
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Primeiro\Primeiro\bin\Debug\Primeiro.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Primeiro\Primeiro\bin\Debug\Primeiro.pdb
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.AssemblyReference.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Primeiro\Primeiro\obj\Debug\Primeiro.csproj.CoreCompileInputs.cache
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Primeiro\Primeiro\obj\Debug\Primeiro.exe
+G:\Algoritmos e Lógica de Programação 2023\Linguagem C#\projetos\Primeiro\Primeiro\obj\Debug\Primeiro.pdb
